@@ -1,4 +1,5 @@
 #C++ implementations of technical problem statements for the EigenRisk Inc. assessment
+# Attached the executable also for reference to run easily
 
 ## Car Sales Analysis (C++)
 
@@ -6,6 +7,6 @@
 g++ -std=c++17 -O2 car_sale_analysis.cpp -o car_sales_analysis
 
 ### Run
-./car_sales_analysis world_car_sales_1m
+./car_sales_analysis world_car_sales_1m.csv
 
 Note: As world_car_sales_1m is a large file, Cant upload it. So please run the exe with the local csv file
